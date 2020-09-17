@@ -27,3 +27,6 @@ The aspects of your code we will review include:
 ## Link to Challenges
 * [Code Challenge - Crispy Dollop](https://github.com/hftay-htg/crispy-dollop)
 * [Code Challenge - Scaling Umbrella](https://github.com/hftay-htg/scaling-umbrella)
+
+## Questions?
+If you have any questions regarding the above, please reach out to your  hiring manager, we are happy to help!
