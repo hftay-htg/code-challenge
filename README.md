@@ -25,4 +25,5 @@ The aspects of your code we will review include:
 * Code Quality: Is the code simple, easy to understand, and maintainable?
 
 ## Link to Challenges
-* [Code Challenge](https://github.com/hftay-htg/crispy-dollop)
+* [Code Challenge - Crispy Dollop](https://github.com/hftay-htg/crispy-dollop)
+* [Code Challenge - Scaling Umbrella](https://github.com/hftay-htg/scaling-umbrella)
