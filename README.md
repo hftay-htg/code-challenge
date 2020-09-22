@@ -8,14 +8,14 @@ Create a new git repository for the challenges. Organize your code within that r
 You should ideally complete the challenges in Ruby, however, we accept solutions in Javascript and PHP too.
 
 ## Time Estimate
-The challenges are scoped for 1-hour timeframe. We respect your time and don't want you spending more than the alloted time. We just want to get a sense of your thought process and problem solving skills. If there are features you don't have time to implement, feel free to use pseudo code to describe the intended behavior.
+The challenges are each scoped for 1-hour timeframe. We respect your time and don't want you spending more than the alloted time. We just want to get a sense of your thought process and problem solving skills. If there are features you don't have time to implement, feel free to use pseudo code to describe the intended behavior.
 
 ## Your Challenge README
 Include the following items in your README:
 
 * Description of the problem and solution.
-* Reasoning behind your solution. Include any trade-offs you might have made, anything you left out, or what you might do differently if you were to spend additional time on the problem.
-* Link to to the hosted application where applicable.
+* Reasoning behind your solution. Include any trade-offs you might have made, anything you left out.
+* What you might do differently if you were to spend additional time on the problem.
 
 ## What We Review
 The aspects of your code we will review include:
