@@ -5,7 +5,7 @@ The following code challenges are an opportunity to demostrate proficiency in th
 ## Expectations
 Create a new git repository for the challenges. Organize your code within that repo. When you get to a stopping point, commit and push your code and email a link to your repo to <hsingfu.tay@htgroup.com.my>
  
-You should ideally complete the challenges in Ruby, however, we accept solutions in Javascript and PHP too.
+You should ideally complete the challenges in either Javascript or Ruby, however, we accept solutions in all programming languages.
 
 ## Time Estimate
 The challenges are each scoped for 1-hour timeframe. We respect your time and don't want you spending more than the alloted time. We just want to get a sense of your thought process and problem solving skills. If there are features you don't have time to implement, feel free to use pseudo code to describe the intended behavior.
